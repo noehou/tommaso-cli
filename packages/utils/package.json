@@ -14,11 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://www.npmjs.com/package/tommaso-cli",
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "2fc128356237f61a37d2ee41300bc5f42acc5d4f"
+  "gitHead": "0a9bca90bd8696c8ae3c2bd981247d4682f31c89"
 }
