@@ -1,6 +1,6 @@
 {
   "name": "@tommaso-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tommaso-cli core",
   "author": "fangtao.hou <fangtao.hou@dmall.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
   ],
   "publishConfig": {
     "registry": "https://www.npmjs.com/package/tommaso-cli",
-        "access": "public"
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
