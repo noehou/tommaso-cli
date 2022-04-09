@@ -1,6 +1,6 @@
 {
   "name": "@tommaso-cli/core",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "tommaso-cli core",
   "author": "fangtao.hou <fangtao.hou@dmall.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@tommaso-cli/utils": "^1.0.7"
+    "@tommaso-cli/utils": "^1.0.9"
   },
   "gitHead": "a9d84399cb99385e7fc32d756ac15861a68c20f7"
 }
