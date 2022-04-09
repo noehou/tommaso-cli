@@ -1,13 +1,13 @@
 {
   "name": "@tommaso-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tommaso-cli core",
   "author": "fangtao.hou <fangtao.hou@dmall.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-    "tommaso-cli":"bin/index.js"
+    "tommaso-cli": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
