@@ -1,5 +1,5 @@
 {
-  "name": "tommaso-cli/core",
+  "name": "@tommaso-cli/core",
   "version": "1.0.9",
   "description": "tommaso-cli core",
   "author": "fangtao.hou <fangtao.hou@dmall.com>",
@@ -17,7 +17,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://www.npmjs.com/package/",
     "access": "public"
   },
   "scripts": {
