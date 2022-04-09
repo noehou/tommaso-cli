@@ -1,5 +1,5 @@
 {
-  "name": "@tommaso-cli/utils",
+  "name": "tommaso-cli/utils",
   "version": "1.0.9",
   "description": "> TODO: description",
   "author": "fangtao.hou <fangtao.hou@dmall.com>",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "a9d84399cb99385e7fc32d756ac15861a68c20f7"
+  "gitHead": "b4ebfcf5f478a4fc7263307ed6dd27039ec24997"
 }
