@@ -17,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://www.npmjs.com/package/tommaso-cli/core",
+    "registry": "https://www.npmjs.com/package/",
     "access": "public"
   },
   "scripts": {
@@ -26,5 +26,5 @@
   "dependencies": {
     "@tommaso-cli/utils": "^1.0.7"
   },
-  "gitHead": "b95dc81e5206d59cabd102fe9ff5dac5da90d20a"
+  "gitHead": "a9d84399cb99385e7fc32d756ac15861a68c20f7"
 }
